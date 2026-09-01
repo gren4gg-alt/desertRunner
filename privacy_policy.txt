@@ -1,0 +1,32 @@
+PRIVACY POLICY FOR DUNE RUNNER
+
+Effective Date: September 1, 2026
+
+1. INTRODUCTION
+Welcome to Dune Runner. This Privacy Policy explains how our mobile application handles user information. We are committed to respecting and protecting your privacy while you play our game.
+
+2. INFORMATION WE COLLECT & ADVERTISING (THIRD-PARTY SERVICES)
+Currently, Dune Runner does not collect, store, or transmit any personal data, user identifiers, or sensitive device information. The game stores local settings (such as high scores and audio/graphics preferences) locally on your device using HTML5 LocalStorage.
+
+Upcoming Advertising Networks:
+Please note that we plan to integrate third-party advertising services (such as Google AdMob) in upcoming updates. When ads are integrated:
+- Third-party ad networks may automatically collect non-personal data and device identifiers (such as Android Advertising ID, IP address, coarse location data, device model, operating system version, and app interaction data).
+- These networks use this data to deliver personalized or contextual advertisements, measure ad performance, and prevent fraud.
+- You can manage or reset your advertising ID or opt out of personalized ads at any time through your device settings:
+  - Settings -> Google -> Ads -> Reset Advertising ID / Opt out of Personalized Ads.
+
+3. DATA RETENTION & LOCAL STORAGE
+Game progress data (e.g., best score: 'duneRunnerBest') is saved locally on your device. We do not transmit or store this information on any external servers. Clearing your app cache or uninstalling the game will remove this stored local data.
+
+4. CHILDREN'S PRIVACY
+Dune Runner does not knowingly collect any personal identifiable information from children under the age of 13 (or under the applicable age in your jurisdiction). If third-party advertising partners are integrated in the future, we will ensure compliance with relevant children's privacy regulations (such as COPPA) by disabling targeted advertising for child audiences where required.
+
+5. THIRD-PARTY LINKS & LIBRARIES
+Dune Runner uses open-source web technologies and libraries (such as Three.js loaded via CDN). These third-party CDNs deliver script files and do not track or store personal user data through our application.
+
+6. CHANGES TO THIS PRIVACY POLICY
+We reserve the right to update this Privacy Policy from time to time, especially upon the release of updates containing new features or third-party advertising integration. We encourage you to review this policy periodically.
+
+7. CONTACT US
+If you have any questions, concerns, or feedback regarding this Privacy Policy or the game, please contact us at:
+Developer Contact: support@dunerunnergame.com
